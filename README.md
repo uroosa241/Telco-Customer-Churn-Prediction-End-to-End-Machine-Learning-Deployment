@@ -1,7 +1,7 @@
 # Telco Customer Churn Prediction — End-to-End Machine Learning & Deployment
 
 An end-to-end machine learning project that predicts whether a telecommunications customer is likely to churn. This project covers the complete ML workflow, from data preprocessing and model comparison to hyperparameter tuning, model evaluation, API development, and Streamlit deployment.
-
+https://telco-customer-churn-prediction-end-to-end-machine-learning-de.streamlit.app/
 ##  Project Overview
 
 Customer churn is a major business challenge for telecommunications companies. The goal of this project is to build a machine learning system that identifies customers who are likely to leave the company.
